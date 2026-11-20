@@ -1,20 +1,18 @@
-\<!-- Header Banner -->
+<!-- ================= HEADER ================= -->
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=200&section=header&text=Adarsh%20Kumar%20Keshari&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Development%20%7C%20System%20Design%20%7C%20Problem%20Solving&descSize=15&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,50:1E3A8A,100:2563EB\&height=200\&section=header\&text=Adarsh%20Kumar%20Keshari\&fontSize=36\&fontColor=FFFFFF\&fontAlignY=38\&desc=Backend%20Development%20%7C%20System%20Design%20%7C%20Problem%20Solving\&descSize=15\&descAlignY=60\&animation=fadeIn)" width="100%" alt="Profile banner"/>
-\</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=200&section=header&text=Adarsh%20Kumar%20Keshari&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Development%20%7C%20System%20Design%20%7C%20Problem%20Solving&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Profile banner"/>
+</p>
 
-\<h3 align="center">
-&#x20; Software Engineer | Backend Developer | Problem Solver
-\</h3>
+<h3 align="center">Software Engineer | Backend Developer | Problem Solver</h3>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/adarshisop](https://github.com/adarshisop)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-adarshisop-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-adarshisop-181717?style=for-the-badge\&logo=github)" alt="GitHub"/>
-&#x20; \</a>
-&#x20; \<img src="[https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=for-the-badge](https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=for-the-badge)" alt="Backend Engineering"/>
-&#x20; \<img src="[https://img.shields.io/badge/Exploring-AI%2FML-purple?style=for-the-badge](https://img.shields.io/badge/Exploring-AI%2FML-purple?style=for-the-badge)" alt="AI ML"/>
-\</p>
+<p align="center">
+  <a href="https://github.com/adarshisop">
+    <img src="https://img.shields.io/badge/GitHub-adarshisop-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=for-the-badge" alt="Backend Engineering"/>
+  <img src="https://img.shields.io/badge/Exploring-AI%2FML-purple?style=for-the-badge" alt="AI ML"/>
+</p>
 
 ---
 
@@ -36,27 +34,27 @@ I enjoy understanding how systems work under the hood, designing backend archite
 
 **Programming Languages**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=java,cpp,c,python,js](https://skillicons.dev/icons?i=java,cpp,c,python,js)" alt="Programming languages"/>
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js" alt="Programming languages"/>
+</p>
 
-**Backend Development**
+**Backend Development & Databases**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=spring,hibernate,postgres,mysql,redis](https://skillicons.dev/icons?i=spring,hibernate,postgres,mysql,redis)" alt="Backend technologies"/>
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,redis" alt="Backend technologies"/>
+</p>
 
 **Tools & Technologies**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode](https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode)" alt="Development tools"/>
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode" alt="Development tools"/>
+</p>
 
 **Currently Exploring**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=aws,kubernetes,tensorflow](https://skillicons.dev/icons?i=aws,kubernetes,tensorflow)" alt="Currently exploring technologies"/>
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,tensorflow" alt="Currently exploring technologies"/>
+</p>
 
 ---
 
@@ -90,16 +88,14 @@ A civic complaint management platform designed to simplify complaint registratio
 
 ## 🧩 Problem Solving
 
-I actively practice competitive programming to improve my algorithmic thinking, problem-solving ability, and understanding of data structures and algorithms.
-
-\<p align="center">
-&#x20; \<a href="[https://leetcode.com/adarshisop](https://leetcode.com/adarshisop)">
-&#x20;   \<img src="[https://img.shields.io/badge/LeetCode-1900%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-1900%2B%20Rating-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="LeetCode rating"/>
-&#x20; \</a>
-&#x20; \<a href="[https://codeforces.com/profile/mythdarsh](https://codeforces.com/profile/mythdarsh)>
-&#x20;   \<img src="[https://img.shields.io/badge/Codeforces-1300%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white](https://img.shields.io/badge/Codeforces-1300%2B%20Rating-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)" alt="Codeforces rating"/>
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://leetcode.com/adarshisop/">
+    <img src="https://img.shields.io/badge/LeetCode-1900%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/mythdarsh">
+    <img src="https://img.shields.io/badge/Codeforces-1300%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+</p>
 
 - **1,000+** problems solved across coding platforms.
 - **LeetCode:** 1900+ rating | Top 3% globally | 800+ problems solved.
@@ -109,10 +105,10 @@ I actively practice competitive programming to improve my algorithmic thinking, 
 
 ## 📊 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=adarshisop&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=adarshisop\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub statistics"/>
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=adarshisop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshisop\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" alt="Most used languages"/>
-\</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshisop&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshisop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+</p>
 
 ---
 
@@ -127,23 +123,22 @@ I actively practice competitive programming to improve my algorithmic thinking, 
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with engineers, developers, and people building interesting things.
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarsh-kumar-keshari/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adarshps1k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/adarshisop">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://www.linkedin.com/in/adarsh-kumar-keshari](https://www.linkedin.com/in/adarsh-kumar-keshari)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>   \</a>   \<a href="adarshps1k\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/adarshisop](https://github.com/adarshisop)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)" alt="GitHub"/>
-&#x20; \</a>
-\</p>
+<p align="center">
+  <i>Building, learning, and getting better one commit at a time.</i>
+</p>
 
-\<p align="center">
-&#x20; \<i>Building, learning, and getting better one commit at a time.\</i>
-\</p>
-
-\<!-- Footer -->
-
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,50:1E3A8A,100:2563EB\&height=100\&section=footer)" width="100%" alt="Footer"/>
-\</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=100&section=footer" width="100%" alt="Footer"/>
+</p>
